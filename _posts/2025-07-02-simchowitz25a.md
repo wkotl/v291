@@ -1,5 +1,5 @@
 ---
-title: The title of the paper
+title: The Pitfalls of Imitation Learning when Actions are Continuous
 section: Original Papers
 abstract: " We study the problem of imitating an expert demonstrator in a discrete-time,
   continuous state-and-action space control system. We show that there exist  stable
